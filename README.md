@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saphnt5588
 - 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning Java and HTML
+- 🌱 I’m currently learning Java, HTML, JavaScript, CSS
 - 💞️ I’m looking to collaborate on Java
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm currently duing a second bachelor's degree, and it's in computer science
